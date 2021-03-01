@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ds_Bill" targetNamespace="http://tempuri.org/ds_Bill.xsd" xmlns:mstns="http://tempuri.org/ds_Bill.xsd" xmlns="http://tempuri.org/ds_Bill.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLQuanAnConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLQuanAnConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DoAn.Properties.Settings.GlobalReference.Default.QLQuanAnConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ds_Bill" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ds_Bill" msprop:Generator_UserDSName="ds_Bill">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbl_BillExport" msprop:Generator_TableClassName="tbl_BillExportDataTable" msprop:Generator_TableVarName="tabletbl_BillExport" msprop:Generator_TablePropName="tbl_BillExport" msprop:Generator_RowDeletingName="tbl_BillExportRowDeleting" msprop:Generator_RowChangingName="tbl_BillExportRowChanging" msprop:Generator_RowEvHandlerName="tbl_BillExportRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_BillExportRowDeleted" msprop:Generator_UserTableName="tbl_BillExport" msprop:Generator_RowChangedName="tbl_BillExportRowChanged" msprop:Generator_RowEvArgName="tbl_BillExportRowChangeEvent" msprop:Generator_RowClassName="tbl_BillExportRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaHD" msprop:Generator_ColumnVarNameInTable="columnMaHD" msprop:Generator_ColumnPropNameInRow="MaHD" msprop:Generator_ColumnPropNameInTable="MaHDColumn" msprop:Generator_UserColumnName="MaHD" type="xs:int" />
+              <xs:element name="TenBan" msprop:Generator_ColumnVarNameInTable="columnTenBan" msprop:Generator_ColumnPropNameInRow="TenBan" msprop:Generator_ColumnPropNameInTable="TenBanColumn" msprop:Generator_UserColumnName="TenBan" type="xs:string" minOccurs="0" />
+              <xs:element name="LucVao" msprop:Generator_ColumnVarNameInTable="columnLucVao" msprop:Generator_ColumnPropNameInRow="LucVao" msprop:Generator_ColumnPropNameInTable="LucVaoColumn" msprop:Generator_UserColumnName="LucVao" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LucRa" msprop:Generator_ColumnVarNameInTable="columnLucRa" msprop:Generator_ColumnPropNameInRow="LucRa" msprop:Generator_ColumnPropNameInTable="LucRaColumn" msprop:Generator_UserColumnName="LucRa" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TenMon" msprop:Generator_ColumnVarNameInTable="columnTenMon" msprop:Generator_ColumnPropNameInRow="TenMon" msprop:Generator_ColumnPropNameInTable="TenMonColumn" msprop:Generator_UserColumnName="TenMon" type="xs:string" minOccurs="0" />
+              <xs:element name="SoLuong" msprop:Generator_ColumnVarNameInTable="columnSoLuong" msprop:Generator_ColumnPropNameInRow="SoLuong" msprop:Generator_ColumnPropNameInTable="SoLuongColumn" msprop:Generator_UserColumnName="SoLuong" type="xs:double" minOccurs="0" />
+              <xs:element name="DonGia" msprop:Generator_ColumnVarNameInTable="columnDonGia" msprop:Generator_ColumnPropNameInRow="DonGia" msprop:Generator_ColumnPropNameInTable="DonGiaColumn" msprop:Generator_UserColumnName="DonGia" type="xs:double" minOccurs="0" />
+              <xs:element name="GiamGia" msprop:Generator_ColumnVarNameInTable="columnGiamGia" msprop:Generator_ColumnPropNameInRow="GiamGia" msprop:Generator_ColumnPropNameInTable="GiamGiaColumn" msprop:Generator_UserColumnName="GiamGia" type="xs:double" minOccurs="0" />
+              <xs:element name="ThanhTien" msprop:Generator_ColumnVarNameInTable="columnThanhTien" msprop:Generator_ColumnPropNameInRow="ThanhTien" msprop:Generator_ColumnPropNameInTable="ThanhTienColumn" msprop:Generator_UserColumnName="ThanhTien" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tbl_BillExport" />
+      <xs:field xpath="mstns:MaHD" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

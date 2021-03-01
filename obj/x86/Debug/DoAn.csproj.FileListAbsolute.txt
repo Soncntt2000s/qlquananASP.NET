@@ -1,0 +1,84 @@
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.frmLogin.resources
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.Properties.Resources.resources
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.csproj.GenerateResource.Cache
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.exe
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.pdb
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.frmMain.resources
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.frmAccount.resources
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.csprojResolveAssemblyReference.cache
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.frmAdmin.resources
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Bill\2020\Công nghệ phần mềm\bt\DoAn\DoAn\obj\x86\Debug\DoAn.frmBillExport.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\DoAn.exe.config
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\DoAn.exe
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\DoAn.pdb
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\AxShockwaveFlashObjects.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.Shared.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\ShockwaveFlashObjects.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\stdole.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.frmAccount.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.frmAdmin.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.frmBillExport.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.frmLogin.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.frmMain.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.Properties.Resources.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.csproj.GenerateResource.cache
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.csproj.CopyComplete
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.exe
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAn\DoAn\obj\x86\Debug\DoAn.pdb
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\DoAn.exe.config
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\DoAn.exe
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\DoAn.pdb
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\AxShockwaveFlashObjects.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.Shared.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\ShockwaveFlashObjects.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\stdole.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.csprojAssemblyReference.cache
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.frmAccount.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.frmAdmin.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.frmBillExport.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.frmLogin.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.frmMain.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.Properties.Resources.resources
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.csproj.GenerateResource.cache
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.csproj.CopyComplete
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.exe
+F:\BAITAP\BaiTap_HK2_Nam2\BaiTap_CongNghe_PhanMem\DoAnCNPM_Son_Thanh\DoAn\obj\x86\Debug\DoAn.pdb

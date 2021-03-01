@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ds_BillExport" targetNamespace="http://tempuri.org/ds_BillExport.xsd" xmlns:mstns="http://tempuri.org/ds_BillExport.xsd" xmlns="http://tempuri.org/ds_BillExport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLQuanAnConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLQuanAnConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DoAn.Properties.Settings.GlobalReference.Default.QLQuanAnConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tbl_BillExportTableAdapter" GeneratorDataComponentClassName="tbl_BillExportTableAdapter" Name="tbl_BillExport" UserDataComponentName="tbl_BillExportTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLQuanAnConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        BanAn.TenBan, HoaDon.idHoaDon, HoaDon.DateCheckOut, HoaDon.DateCheckIn, HoaDon.GiamGia, ChiTietHoaDon.SoLuong, MonAn.TenMon, MonAn.DonGia
+FROM            BanAn INNER JOIN
+                         HoaDon ON BanAn.idBan = HoaDon.idBanAn INNER JOIN
+                         ChiTietHoaDon ON HoaDon.idHoaDon = ChiTietHoaDon.idHoaDon INNER JOIN
+                         MonAn ON ChiTietHoaDon.idMonAn = MonAn.idMonAn</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TenBan" DataSetColumn="TenBan" />
+              <Mapping SourceColumn="idHoaDon" DataSetColumn="idHoaDon" />
+              <Mapping SourceColumn="DateCheckOut" DataSetColumn="DateCheckOut" />
+              <Mapping SourceColumn="DateCheckIn" DataSetColumn="DateCheckIn" />
+              <Mapping SourceColumn="GiamGia" DataSetColumn="GiamGia" />
+              <Mapping SourceColumn="SoLuong" DataSetColumn="SoLuong" />
+              <Mapping SourceColumn="TenMon" DataSetColumn="TenMon" />
+              <Mapping SourceColumn="DonGia" DataSetColumn="DonGia" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ds_BillExport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ds_BillExport" msprop:Generator_UserDSName="ds_BillExport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbl_BillExport" msprop:Generator_TableClassName="tbl_BillExportDataTable" msprop:Generator_TableVarName="tabletbl_BillExport" msprop:Generator_TablePropName="tbl_BillExport" msprop:Generator_RowDeletingName="tbl_BillExportRowDeleting" msprop:Generator_RowChangingName="tbl_BillExportRowChanging" msprop:Generator_RowEvHandlerName="tbl_BillExportRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_BillExportRowDeleted" msprop:Generator_UserTableName="tbl_BillExport" msprop:Generator_RowChangedName="tbl_BillExportRowChanged" msprop:Generator_RowEvArgName="tbl_BillExportRowChangeEvent" msprop:Generator_RowClassName="tbl_BillExportRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TenBan" msprop:Generator_ColumnVarNameInTable="columnTenBan" msprop:Generator_ColumnPropNameInRow="TenBan" msprop:Generator_ColumnPropNameInTable="TenBanColumn" msprop:Generator_UserColumnName="TenBan">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idHoaDon" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnidHoaDon" msprop:Generator_ColumnPropNameInRow="idHoaDon" msprop:Generator_ColumnPropNameInTable="idHoaDonColumn" msprop:Generator_UserColumnName="idHoaDon" type="xs:int" />
+              <xs:element name="DateCheckOut" msprop:Generator_ColumnVarNameInTable="columnDateCheckOut" msprop:Generator_ColumnPropNameInRow="DateCheckOut" msprop:Generator_ColumnPropNameInTable="DateCheckOutColumn" msprop:Generator_UserColumnName="DateCheckOut" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DateCheckIn" msprop:Generator_ColumnVarNameInTable="columnDateCheckIn" msprop:Generator_ColumnPropNameInRow="DateCheckIn" msprop:Generator_ColumnPropNameInTable="DateCheckInColumn" msprop:Generator_UserColumnName="DateCheckIn" type="xs:dateTime" />
+              <xs:element name="GiamGia" msprop:Generator_ColumnVarNameInTable="columnGiamGia" msprop:Generator_ColumnPropNameInRow="GiamGia" msprop:Generator_ColumnPropNameInTable="GiamGiaColumn" msprop:Generator_UserColumnName="GiamGia" type="xs:int" minOccurs="0" />
+              <xs:element name="SoLuong" msprop:Generator_ColumnVarNameInTable="columnSoLuong" msprop:Generator_ColumnPropNameInRow="SoLuong" msprop:Generator_ColumnPropNameInTable="SoLuongColumn" msprop:Generator_UserColumnName="SoLuong" type="xs:int" />
+              <xs:element name="TenMon" msprop:Generator_ColumnVarNameInTable="columnTenMon" msprop:Generator_ColumnPropNameInRow="TenMon" msprop:Generator_ColumnPropNameInTable="TenMonColumn" msprop:Generator_UserColumnName="TenMon">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DonGia" msprop:Generator_ColumnVarNameInTable="columnDonGia" msprop:Generator_ColumnPropNameInRow="DonGia" msprop:Generator_ColumnPropNameInTable="DonGiaColumn" msprop:Generator_UserColumnName="DonGia" type="xs:double" />
+              <xs:element name="ThanhTien" msprop:Generator_ColumnVarNameInTable="columnThanhTien" msprop:Generator_ColumnPropNameInRow="ThanhTien" msprop:Generator_ColumnPropNameInTable="ThanhTienColumn" msprop:Generator_UserColumnName="ThanhTien" type="xs:double" minOccurs="0" />
+              <xs:element name="Tong" msprop:Generator_ColumnVarNameInTable="columnTong" msprop:Generator_ColumnPropNameInRow="Tong" msprop:Generator_ColumnPropNameInTable="TongColumn" msprop:Generator_UserColumnName="Tong" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tbl_BillExport" />
+      <xs:field xpath="mstns:idHoaDon" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
